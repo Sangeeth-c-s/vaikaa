@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.bbaac12a.js",
+    "static/js/787.9f6224bb.chunk.js": "/static/js/787.9f6224bb.chunk.js",
+    "static/media/Vaikaa Banner Photo.png": "/static/media/Vaikaa Banner Photo.04bced1abbffa508cd25.png",
+    "static/media/secondBanner.png": "/static/media/secondBanner.4c93e3d82bf0ecd5c1db.png",
+    "static/media/Reviews.png": "/static/media/Reviews.300836228034528243da.png",
+    "static/media/ingredients(original).png": "/static/media/ingredients(original).d638cae51bd20a150fa4.png",
+    "static/media/products.png": "/static/media/products.8cc917b9efafe119002e.png",
+    "static/media/product.png": "/static/media/product.79296a11995d1446dcf0.png",
+    "static/media/scrnli_9_21_2023_5-04-45 PM.png": "/static/media/scrnli_9_21_2023_5-04-45 PM.42a23676d1463b7ce71e.png",
+    "static/media/Info.png": "/static/media/Info.52967c199b96ff802667.png",
+    "static/media/Header.png": "/static/media/Header.07b76fec02328398ce47.png",
+    "static/media/viewAll.png": "/static/media/viewAll.42ed44e8e1dfd5ca5217.png",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.bbaac12a.js.map": "/static/js/main.bbaac12a.js.map",
+    "787.9f6224bb.chunk.js.map": "/static/js/787.9f6224bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bbaac12a.js"
+  ]
+}
